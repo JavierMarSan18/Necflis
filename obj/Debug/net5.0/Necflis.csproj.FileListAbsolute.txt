@@ -1,0 +1,48 @@
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis\bin\Debug\net5.0\Necflis.exe
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis\bin\Debug\net5.0\Necflis.deps.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis\bin\Debug\net5.0\Necflis.runtimeconfig.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis\bin\Debug\net5.0\Necflis.runtimeconfig.dev.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis\bin\Debug\net5.0\Necflis.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis\bin\Debug\net5.0\ref\Necflis.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis\bin\Debug\net5.0\Necflis.pdb
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis\obj\Debug\net5.0\Necflis.csprojAssemblyReference.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis\obj\Debug\net5.0\Necflis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis\obj\Debug\net5.0\Necflis.AssemblyInfoInputs.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis\obj\Debug\net5.0\Necflis.AssemblyInfo.cs
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis\obj\Debug\net5.0\Necflis.csproj.CoreCompileInputs.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis\obj\Debug\net5.0\Necflis.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis\obj\Debug\net5.0\ref\Necflis.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis\obj\Debug\net5.0\Necflis.pdb
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis\obj\Debug\net5.0\Necflis.genruntimeconfig.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis II\obj\Debug\net5.0\Necflis.csprojAssemblyReference.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis II\obj\Debug\net5.0\Necflis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis II\obj\Debug\net5.0\Necflis.AssemblyInfoInputs.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis II\obj\Debug\net5.0\Necflis.AssemblyInfo.cs
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis II\obj\Debug\net5.0\Necflis.csproj.CoreCompileInputs.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis II\obj\Debug\net5.0\Necflis.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis II\obj\Debug\net5.0\ref\Necflis.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis II\obj\Debug\net5.0\Necflis.pdb
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis II\bin\Debug\net5.0\Necflis.exe
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis II\bin\Debug\net5.0\Necflis.deps.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis II\bin\Debug\net5.0\Necflis.runtimeconfig.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis II\bin\Debug\net5.0\Necflis.runtimeconfig.dev.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis II\bin\Debug\net5.0\Necflis.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis II\bin\Debug\net5.0\ref\Necflis.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis II\bin\Debug\net5.0\Necflis.pdb
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis II\obj\Debug\net5.0\Necflis.genruntimeconfig.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis III\obj\Debug\net5.0\Necflis.csprojAssemblyReference.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis III\obj\Debug\net5.0\Necflis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis III\obj\Debug\net5.0\Necflis.AssemblyInfoInputs.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis III\obj\Debug\net5.0\Necflis.AssemblyInfo.cs
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis III\obj\Debug\net5.0\Necflis.csproj.CoreCompileInputs.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis III\obj\Debug\net5.0\Necflis.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis III\obj\Debug\net5.0\ref\Necflis.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis III\obj\Debug\net5.0\Necflis.pdb
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis III\bin\Debug\net5.0\Necflis.exe
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis III\bin\Debug\net5.0\Necflis.deps.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis III\bin\Debug\net5.0\Necflis.runtimeconfig.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis III\bin\Debug\net5.0\Necflis.runtimeconfig.dev.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis III\bin\Debug\net5.0\Necflis.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis III\bin\Debug\net5.0\ref\Necflis.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis III\bin\Debug\net5.0\Necflis.pdb
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Examenes\Examen II\Ejercicio\Necflis III\obj\Debug\net5.0\Necflis.genruntimeconfig.cache
