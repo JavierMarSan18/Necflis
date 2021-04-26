@@ -26,13 +26,22 @@ namespace Necflis
 		{
 			Console.Clear();
 			
-			Console.WriteLine("||----------------------------||");
-			Console.WriteLine("||     Lista de Peliculas     ||");
-			Console.WriteLine("||----------------------------||");
+			Console.WriteLine("||---------------------------||");
+			Console.WriteLine("||    Lista de Peliculas     ||");
+			Console.WriteLine("||---------------------------||");
 			
-			foreach(var pelicula in listaPelicula)
+			if(listaPelicula.Count > 0)
 			{
-				Console.WriteLine($"  {pelicula.indiceListaPelicula}. {pelicula.nombre}");
+				foreach(var pelicula in listaPelicula)
+				{
+					Console.WriteLine($"  {pelicula.indiceListaPelicula}. {pelicula.nombre}");
+				}
+			}
+			else
+			{
+				Console.WriteLine("\n||---------------------------||");
+				Console.WriteLine("||    La lista esta vacia    ||");
+				Console.WriteLine("||---------------------------||");
 			}
 		}
 		

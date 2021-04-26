@@ -47,6 +47,8 @@ namespace Necflis
 				Console.WriteLine("||---------------------------||");
 				Console.WriteLine("||    BIENVENIDO A NECFLIS   ||");
 				Console.WriteLine("||---------------------------||");
+				Console.WriteLine("||          CLIENTES         ||");
+				Console.WriteLine("||---------------------------||");
 				Console.WriteLine("||1. Ver listado de clientes ||");
 				Console.WriteLine("||2. Crear nuevo cliente     ||");
 				Console.WriteLine("||3. Seleccionar cliente     ||");
@@ -85,7 +87,9 @@ namespace Necflis
 			{	Console.Clear();
 				Console.WriteLine("||---------------------------||");
 				Console.WriteLine("||    BIENVENIDO A NECFLIS   ||");
-				Console.WriteLine("||-------------------- ------||");
+				Console.WriteLine("||---------------------------||");
+				Console.WriteLine("||          PELICULAS        ||");
+				Console.WriteLine("||---------------------------||");
 				Console.WriteLine("||1. Ver listado de peliculas||");
 				Console.WriteLine("||2. Crear pelicula          ||");
 				Console.WriteLine("||3. Atras                   ||");
@@ -121,7 +125,6 @@ namespace Necflis
 				Console.WriteLine($" Nombre: {cliente.nombre}");
 				Console.WriteLine($" Direccion: {cliente.direccion}");
 				Console.WriteLine($" Edad: {cliente.edad}");
-
 				Console.WriteLine("||---------------------------||");
 				Console.WriteLine("||1. PlayList                ||");
 				Console.WriteLine("||2. Agregar Película        ||");
